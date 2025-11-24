@@ -243,18 +243,7 @@ physics-informed-tga-transformer/
 
 If you use this code in your research, please cite:
 
-```bibtex
-@article{yourname2024physics,
-  title={Physics-Informed Transformer with Cross-Attention for TGA Prediction},
-  author={Your Name},
-  journal={Journal Name},
-  year={2024}
-}
-```
-
-## License
-
-MIT License - see LICENSE file for details.
+>will add bibtex when this research finds a home :)
 
 ## Acknowledgments
 
